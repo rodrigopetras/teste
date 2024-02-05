@@ -1,0 +1,293 @@
+---
+Tipo de incidente grave: 
+Interrupção total: 
+Interrupção parcial: 
+Degradação do desempenho: 
+Impacto nos negócios: 
+Locais afetados: 
+Número de clientes afetados: 
+Complexidade: 
+Padrão: 
+Média: 
+Avançado: 
+Prioridade do tíquete: 
+Baixa: 
+Alta: 
+Urgente: 
+Horário de trabalho: 
+Horário de trabalho: 
+"[24x7]": 
+"[8x5]": 
+Plano de serviço do espaço de trabalho: 
+Plano de serviço: 
+Gold (Ouro): 
+Prata: 
+Bronze: 
+Cortesia: 
+Método de notificação de alerta: 
+Chamada telefônica: 
+Chat: 
+E-mail: 
+Aguardando Tigabytes: 
+Aguardando sua resposta: 
+Aguardando cliente: 
+Este tíquete já foi resolvido: 
+Aguardando fornecedor: 
+Aguardando fornecedor: 
+Partner Ops: 
+Google Workspace: 
+Console do administrador: 
+Logs de auditoria: 
+Script de aplicativos: 
+AppSheet: 
+Assignments (Atribuições): 
+Calendário: 
+Navegador Chrome: 
+ChromeOS: 
+Hangouts clássico: 
+Sites clássicos: 
+Sala de aula: 
+APIs de identidade na nuvem: 
+Pesquisa na nuvem: 
+Contatos: 
+Currents: 
+Serviço de migração de dados (DMS): 
+Documentos: 
+Domínios: 
+Drive: 
+Formulários: 
+Gmail: 
+Conector do G. Calendar para HCL Notes (GCCHN): 
+Google Play: 
+G. Calendar Resource Sync (GCRS): 
+G. Cloud Directory Sync (GCDS): 
+G. Sync (w. ActiveSync): 
+GW. APIs e complementos: 
+GW. Marketplace: 
+GW. Migrar (GWM): 
+GW. Migração para HCL Notes (GWMHN): 
+GW. Migração para o Microsoft Exchange (GWMME): 
+GW. Migração para o Microsoft Outlook (GWMMO): 
+GW. Sincronização para o Microsoft Outlook (GWSMO): 
+Grupos: 
+Jamboard: 
+Manter: 
+Looker Studio: 
+Meet: 
+Gerenciamento de dispositivos móveis (MDM): 
+Password Sync (com Active Directory): 
+School Directory Sync (SDS): 
+Sheets: 
+Sites: 
+Spam: 
+Vault: 
+Voz: 
+Notificação: 
+Google Cloud: 
+App Engine: 
+Anthos: 
+APIs e serviços: 
+API Gateway: 
+Pontos de extremidade: 
+Backup e DR: 
+BigQuery: 
+Faturamento: 
+Agendador de nuvem: 
+Cloud SQL: 
+Execução na nuvem: 
+Balanceamento de carga na nuvem: 
+Armazenamento na nuvem: 
+DNS na nuvem: 
+CND na nuvem: 
+NAT na nuvem: 
+Nuvem Pub/Sub: 
+Armazenamento de arquivos na nuvem: 
+Funções de nuvem: 
+Armazenamento em nuvem: 
+Armazenamento de dados na nuvem: 
+Bigtable na nuvem: 
+Extensão de nuvem: 
+Armadura de nuvem: 
+IDS na nuvem: 
+Armazenamento de memória na nuvem: 
+Mecanismo VMware na nuvem: 
+Estações de trabalho na nuvem: 
+Mecanismo de computação: 
+Mecanismo do Google Kubernetes: 
+IAM: 
+IBM Power AIX: 
+MongoDB Atlas: 
+Servidor Nagios: 
+Rede e firewall: 
+Segurança: 
+Transferência de dados de armazenamento: 
+Agente Zabbix: 
+Zabbix Proxy: 
+Dispositivos: 
+Serviços adicionais: 
+Consultoria: 
+Aniversários: 
+Limpador de contatos: 
+Foto corporativa: 
+Assinatura corporativa: 
+Estúdio de dados: 
+Desconexão digital: 
+Perfil enriquecido: 
+Feriados: 
+Relatórios: 
+Contatos compartilhados: 
+Dicas: 
+Exportação do Vault: 
+Serviços SaaS: 
+Amazon: 
+CloudBerry: 
+Cloudflare: 
+CloudM: 
+Compaigner: 
+Copper: 
+GreeenGeeks: 
+INSync: 
+KissFlow: 
+LumApps: 
+Okta: 
+Spanning: 
+Virtru: 
+Assuntos internos: 
+Problemas com dispositivos: 
+Console de administração do GWS: 
+Ferramentas de colaboração do GWS: 
+Console do GCP: 
+P&amp;C Offboarding: 
+P&amp;C Onboarding (Integração de P&amp;C): 
+Suporte de pré-vendas: 
+Registro da empresa (Freshservice): 
+Segurança da Tigabytes: 
+Vantagem do parceiro: 
+Criação de sandbox: 
+Preocupação com a qualidade: 
+Vendas: 
+Informações: 
+Licenças: 
+Pagamento: 
+Preços: 
+Renovações: 
+Nota de tempo: 
+TC GCP: 
+Plataforma e ecossistemas de API: 
+"Marketplace: Partner &amp; open source marketplace': 
+'AppSheet: Criação de aplicativos sem código': 
+Compute: 
+"(Ativo) Mecanismo de aplicativos: Plataforma de aplicativos gerenciada": 
+"(Ativo) Cloud Run: Sem servidor para aplicativos em contêineres": 
+"Google Kubernetes Engine (GKE): Clusters": 
+"(Ativo) Bare Metal Solution: Hardware para cargas de trabalho especializadas": 
+"(Ativo) VMs preemptivas: Instâncias de computação de curta duração": 
+"(Ativo) VMs blindadas: VMs protegidas": 
+"(Ativo) VMware Engine: VMware como um serviço (Nó)": 
+"(Passivo) Mecanismo de aplicativos: Plataforma de aplicativos gerenciada": 
+"(Passivo) Cloud Run: Sem servidor para aplicativos em contêineres": 
+"(Passivo) Compute Engine": 
+"(Passivo) Bare Metal Solution: Hardware para cargas de trabalho especializadas": 
+"(Passivo) VMs preemptivas: Instâncias de computação de curta duração": 
+"(Passivo) Shielded VMs: VMs protegidas": 
+"(Passivo) VMware Engine: VMware como um serviço (Nó)": 
+"(Ativo) Mecanismo de computação": 
+Banco de dados: 
+"Cloud SQL: MySQL gerenciado, PostgreSQL, SQL Server': 
+Ferramentas de desenvolvedor: 
+'Cloud SDK: CLI para o Google Cloud": 
+'Cloud Shell: Terminal/CLI baseado em navegador': 
+Identidade e segurança: 
+'Transparência de acesso: Auditoria do acesso do provedor de nuvem": 
+'Inventário de ativos na nuvem: Todos os ativos, em um só lugar': 
+'Cloud Audit Logs: Trilhas de auditoria para o Google Cloud": 
+'Prevenção contra perda de dados na nuvem (DLP): Classifique e edite dados confidenciais": 
+'Cloud IAM: controle de acesso a recursos': 
+'Identidade na nuvem: Gerencie usuários, dispositivos e aplicativos": 
+'Cloud Identity-Aware Proxy: Acesso a aplicativos baseado em identidade': 
+"Serviço de gerenciamento de chaves na nuvem: Serviço de gerenciamento de chaves hospedado": 
+"Gerenciador de recursos: Gerenciamento de metadados de projetos na nuvem": 
+'Security Command Center: Plataforma de gerenciamento de segurança e risco de dados': 
+'Access Context Manager: Controle de acesso baseado em atributos do usuário final': 
+'Event Threat Detection: Varredura de atividades suspeitas': 
+'Secret Manager: Armazena e gerencia segredos': 
+'Security Key Enforcement: Verificação de chave em duas etapas': 
+'Shielded VMs: VMs protegidas': 
+'Controles de serviço de VPC: Restrições de dados de VPC': 
+'Access Context Manager: Controle de acesso refinado, baseado em atributos": 
+Ferramentas de gerenciamento: 
+"Faturamento na nuvem: Ferramentas de faturamento e gerenciamento de custos": 
+'Cloud Console: Console de gerenciamento baseado na Web": 
+"Cloud Mobile App: aplicativo de gerenciamento do Google Cloud para iOS/Android": 
+Migração para o Google Cloud: 
+'Serviço de transferência de armazenamento: Transferência de dados on-line/no local": 
+Rede: 
+'Google Cloud Armor: proteção DDoS e WAF': 
+'Cloud CDN: rede de distribuição de conteúdo': 
+'Cloud DNS: Zona gerenciada": 
+"Balanceamento de carga na nuvem: Distribuição/balanceamento de carga em várias regiões': 
+'Cloud NAT: serviço de tradução de endereços de rede': 
+'Cloud Router: Troca de rota de rede VPC/on-prem (BGP)": 
+'Cloud VPN: túneis': 
+Nuvem privada virtual: 
+'Cloud Domains' (Domínios na nuvem): Registro, transferência, gerenciamento de domínios": 
+"Controles de serviço VPC: Perímetros de segurança para serviços baseados em API": 
+'Centro de inteligência de rede: Monitoramento e topologia de rede": 
+'Private Service Connect: Conectar serviços de forma privada entre VPCs":
+"Centro de conectividade de rede: Connect VPC &amp; On-prem": 
+Operações e monitoramento: 
+'Cloud Logging: Registro de log centralizado': 
+Armazenamento: 
+'Cloud Filestore: Servidor NFS gerenciado": 
+'Cloud Storage: Buckets": 
+Disco persistente para o Compute Engine e o GKE: 
+"Local SSD: SSDs conectados localmente à VM": 
+TC GCP TIGABYTES DELIVERY: 
+Avaliação: 
+Macro de avaliação: 
+Fundação: 
+Projeto GCP Foundation: 
+Implementação: 
+Gerenciamento de projetos PEQUENO: 
+MÉDIO Gerenciamento de Projeto: 
+Gerenciamento de projetos LARGE: 
+Sprint de nuvem: 
+Cloud Sprint Large Add On para uma semana adicional no projeto: 
+Cloud Sprint Medium Add On para semana adicional no Projeto: 
+Cloud Sprint Small Add On para semana adicional no projeto: 
+TC GCP TIGABYTES OPERAÇÃO: 
+Suporte: 
+Solicitação de serviço ADVANCED (Avançado): 
+Solicitação de serviço MEDIUM: 
+Solicitação de serviço PADRÃO: 
+Tiga Apps: 
+Administração de empresas corporativas: 
+Perfis enriquecidos: 
+Cumpleaños: 
+Feriados: 
+Foto de Perfil Corporativo: 
+Contatos Compartilhados: 
+Bubble App: 
+Categoria de tempo: 
+MS & Support - Eventos da Empresa: 
+MS & Support - Projeto do Cliente: 
+MS & Support - Suporte ao cliente: 
+MS & Support - Projeto interno: 
+MS & Support - Suporte Interno: 
+MS & Support - Pessoal: 
+MS & Support - Suporte pré-vendas: 
+MS & Support - Treinamento e desenvolvimento: 
+Operações de parceiros - Gerenciamento de assinaturas de contratos: 
+Operações do parceiro - Análise e criação de contratos: 
+Operações do parceiro - Análise financeira da proposta de contratos: 
+Operações do parceiro - Aprovação de negócios da Base One: 
+Operações do parceiro - Gerenciamento do painel do Base One: 
+Operações do parceiro - Cotação de complementos: 
+Operações do parceiro - Gerenciamento de complementos: 
+'Operações do parceiro - Suporte interno - Faturamento': 
+Operações do parceiro - Suporte interno - Controle de contabilidade: 
+Operações do parceiro - Suporte interno - Plataformas de dados: 
+Ops do parceiro - Suporte interno - Vendas/Pré-vendas: 
+Ops do parceiro - Suporte interno - Serviços: 
+Operações do parceiro - Tarefas ADM: 
+Operações do parceiro - Solicitação adicional: 
